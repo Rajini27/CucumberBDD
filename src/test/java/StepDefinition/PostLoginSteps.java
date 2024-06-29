@@ -24,6 +24,9 @@ public class PostLoginSteps {
     @Then("the message should be posted")
     public void theMessageShouldBePosted() {
         System.out.println("theMessageShouldBePosted");
+        System.out.println("theMessageShouldBePosted1");
+        System.out.println("theMessageShouldBePosted2");
+        System.out.println("theMessageShouldBePosted3");
     }
 
 
