@@ -1,0 +1,10 @@
+/target/test-classes/hooks/CucumberHooks.class
+/target/test-classes/runner/LoginRunner.class
+/target/test-classes/StepDefinition/Loginsteps.class
+/target/test-classes/StepDefinition/loginwithExample.class
+/target/test-classes/StepDefinition/LoginWithMultipleData.class
+/target/classes/org/example/Main.class
+/target/test-classes/runner/PostLoginRunner.class
+/target/test-classes/StepDefinition/PostLoginSteps.class
+/target/test-classes/StepDefinition/PostWithParameterSteps.class
+/target/report.xml
