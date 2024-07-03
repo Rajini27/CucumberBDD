@@ -9,6 +9,12 @@ public class Loginsteps {
     @Given("User is on Login page")
     public void userIsOnLoginPage() {
         System.out.println("userIsOnLoginPage");
+        System.out.println("userIsOnLoginPage1");
+
+        System.out.println("userIsOnLoginPage2");
+
+
+
     }
 
     @When("user enters user name and password")
