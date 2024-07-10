@@ -1,2 +1,2 @@
 # CucumberNew
-This is my new CucumberBDD project updated
+This is my new CucumberBDD project
